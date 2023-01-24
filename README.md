@@ -63,7 +63,8 @@ endmodule
 ## Output:
 
 ## Truthtable Half Subtractor: ![image](https://user-images.githubusercontent.com/123470785/214313786-e5849fc7-c80f-47ad-a5fc-c6e6cce6d140.png)
-Full Subractor: 
+Full Subractor: ![image](https://user-images.githubusercontent.com/123470785/214314540-e4768b18-efca-43f3-8824-255a985e27be.png)
+
 
 
 
