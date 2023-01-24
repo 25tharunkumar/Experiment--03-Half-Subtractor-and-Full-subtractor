@@ -74,7 +74,8 @@ Full subractor: ![image](https://user-images.githubusercontent.com/123470785/214
 
 
 
-## Timing diagram 
+## Timing diagram Half subractor: ![image](https://user-images.githubusercontent.com/123470785/214315473-5e258765-1aa9-40da-b9e8-c6f6522aa2e4.png)
+Full subractor: 
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
