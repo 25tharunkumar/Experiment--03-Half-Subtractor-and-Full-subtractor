@@ -70,7 +70,8 @@ Full Subractor: ![image](https://user-images.githubusercontent.com/123470785/214
 
 
 ##  RTL realization Half subractor: ![image](https://user-images.githubusercontent.com/123470785/214314844-5c583a28-2c5b-4880-a50c-a7d57f3ee09e.png)
-Full subractor: 
+Full subractor: ![image](https://user-images.githubusercontent.com/123470785/214315179-c56558a5-df0c-41e5-a708-0b59527be911.png)
+
 
 
 ## Timing diagram 
